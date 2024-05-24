@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(165, 201, 252);
+    padding: 20px;
+    text-align: center;
+    color:black;
+}
+h1, h2{
+    color: #333;
+}
+
+iframe {
+    margin-bottom: 20px;
+}
+
+img {
+    width: 80%;
+    height: auto;
+    margin-top: 20px;
+}
+audio{
+    margin-bottom: 20px;
+}
+video{
+    margin-bottom: 20px;
+}
